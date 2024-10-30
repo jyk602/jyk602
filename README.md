@@ -17,13 +17,7 @@ I❤️ coding, exploring **CREATIVE** solutions, and working with data-driven t
 
 ## 🤐 Programming Languages
 
-<img alt="Databricks" src="https://img.shields.io/badge/Databricks%20-%23104D89.svg?&style=for-the-badge&logo=databricks&logoColor=white"/> 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img alt="Azure" src="https://img.shields.io/badge/Azure%20-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
-<img alt="MSSQL" src="https://img.shields.io/badge/MSSQL%20-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> 
-<img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark%20-%23E25A1C.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/> 
-<img alt="Scala" src="https://img.shields.io/badge/Scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks%20-%23104D89.svg?&style=for-the-badge&logo=databricks&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/Azure%20-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL%20-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark%20-%23E25A1C.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/> <img alt="Scala" src="https://img.shields.io/badge/Scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
 
 ## 📘 Bio
